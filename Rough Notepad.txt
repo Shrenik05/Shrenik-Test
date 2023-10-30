@@ -1,0 +1,21 @@
+237964798
+
+440500913, need to raise feedback and clone the case.
+FQGYXR3
+
+This Service tag FQGYXR3 is shipped with FHD LCD non touch screen, APS shows both HD and FHD parts with part numbers T0TXG as HD and W8MY4 as FHD, APS should only show the part shipped with tag, which is W8MY4 FHD screen, request you to remove T0TXG which is a wrong part and is creating confusion among agents which is resulting in repeats.
+Example of repeat dispatch due to both parts reflecting:  440500913.
+Request you to remove T0TXG from AP which is a wrong part for this particular service tag
+
+rajeswaran@cognizent.com
+
+Power Bi
+Data Analytics
+Azure based reporting dashboard using power BI
+
+Current job.
+Drafting problem statement.
+
+Try fisrt and see if it is related and check if you could convey to the mentor
+
+Power bi is used for reporting
